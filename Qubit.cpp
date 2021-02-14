@@ -43,3 +43,7 @@ measured_state Qubit::measure() const {
 void Qubit::dump() const {
 
 }
+
+int main(){
+	return 0;
+}
